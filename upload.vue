@@ -1,3 +1,10 @@
+<!-- 
+** 这是利用h5的formdata属性进行开发的一个简单的的图片上传组件
+**后续会加入fileReader实现图片本地预览
+-->
+
+
+
 <template>
     <div>
         <div class="upload-wrap">
